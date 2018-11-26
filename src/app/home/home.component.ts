@@ -4,7 +4,6 @@ import { TodoItemService } from '../_services/todoitem.service';
 import { AuthenticationService } from '../_services/authentication.service';
 
 @Component({
-    //moduleId: module.id,
     templateUrl: 'home.component.html'
 })
 
